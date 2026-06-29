@@ -1,6 +1,7 @@
 streamlit
 pandas
 numpy
+plotly
 scikit-learn
 joblib
 google-api-python-client
